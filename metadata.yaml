@@ -1,0 +1,24 @@
+_repo: When-the-Holy-Ghost-is-Come_6135
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brengle, Samuel Logan
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1966'
+    url: http://www.gutenberg.org/2009/agents/1966
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Holy Spirit'
+- GITenberg
+title: When the Holy Ghost is Come
+url: http://www.gutenberg.org/ebooks/6135
